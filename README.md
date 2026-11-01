@@ -32,6 +32,8 @@ Where the profile folder is: **Settings → User profiles → Open active profil
 - macOS: `~/Library/Application Support/QGIS/QGIS3/profiles/default/themes/`
 - Linux: `~/.local/share/QGIS/QGIS3/profiles/default/themes/`
 
+![Symbols and colour ramps](docs/img/symbols.png)
+
 **2. Symbols and colour ramps.** **Settings → Style manager → Import/Export → Import items** → `autumn_styles.xml`. Adds eight symbols (fills, lines, markers) and three ramps: *foliage* (continuous), *ember* (dark to light), *harvest* (categorical).
 
 **3. Colour palette.** In any colour dialog: palette dropdown → **Import palette** → `autumn_palette.gpl`. Twelve named colours.
