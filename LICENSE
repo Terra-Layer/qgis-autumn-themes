@@ -1,7 +1,20 @@
-CC0 1.0 Universal
+Autumn & Forest themes for QGIS
+Copyright (c) 2026 Terra Layer. All rights reserved.
 
-The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+You are free to:
+  - Share: copy and redistribute the material in any medium or format,
+  - Use: install and use the themes, symbols, palettes and layout templates in your own QGIS work, including maps you produce for commercial clients.
 
-Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Under the following terms:
+  - Attribution: you must give appropriate credit to Terra Layer, provide a link to this repository, and indicate if changes were made.
+  - NonCommercial: you may not sell this work or any part of it, bundle it into a paid product, or otherwise use the material itself for commercial purposes.
+  - NoDerivatives: if you remix, transform, or build upon the material, you may not distribute the modified material. Adapting it for your own private use is fine.
+  - No additional restrictions.
+
+Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+For commercial licensing, redistribution rights or custom themes, contact Terra Layer.
+
+Note: the base stylesheet is derived from the "Night Mapping" theme shipped with QGIS (GPL-2.0-or-later, QGIS Development Team). Those portions remain under their original licence; the Terra Layer patterns, palettes, symbol library, layout template and documentation are covered by the terms above.

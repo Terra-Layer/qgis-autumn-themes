@@ -4,7 +4,7 @@
 
 Thirty interface themes for QGIS: fifteen faint panel patterns in two dark palettes, **Autumn** (espresso, walnut, amber, ochre) and **Forest** (fir green, sage, amber accents). Plus a matching symbol library, three colour ramps, a colour palette and an A3 print-layout template.
 
-Made by [Terra Layer](https://streetledger.netlify.app/). Licence **CC0**: use, change, share. A mention is welcome, not required.
+A product of **Terra Layer**. Free to install and use in your own maps, including client work. Licence **CC BY-NC-ND 4.0**: credit Terra Layer, do not sell or redistribute modified versions. See [LICENSE](LICENSE). For commercial licensing or custom themes, contact Terra Layer.
 
 ![All patterns](docs/img/patterns.png)
 
@@ -50,6 +50,10 @@ Where the profile folder is: **Settings → User profiles → Open active profil
 ## Compatibility
 
 Themes are plain Qt stylesheets and PNG tiles, the same format as the built-in *Night Mapping* theme, so they run wherever QGIS runs. Tested on QGIS 3.44 on macOS. Expected to work on QGIS 3.28 and newer on Windows and Linux; if something looks off on your system, please open an issue with a screenshot and your QGIS version.
+
+## Licence
+
+© 2026 Terra Layer. CC BY-NC-ND 4.0. You may use the themes and share them unchanged with credit; you may not sell them, include them in paid products, or distribute modified copies. The base stylesheet derives from the QGIS *Night Mapping* theme (GPL); Terra Layer's patterns, palettes, symbols, layout and documentation are under the terms above.
 
 ## Colours
 
