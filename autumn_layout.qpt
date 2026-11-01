@@ -1,0 +1,38 @@
+<Layout name="Autumn A3 landscape" units="mm" worldFileMap="" printResolution="300">
+  <Snapper tolerance="5" snapToGrid="0" snapToItems="1" snapToGuides="1"/>
+  <Grid resUnits="mm" resolution="10" offsetX="0" offsetY="0" offsetUnits="mm"/>
+  <PageCollection>
+    <LayoutItem type="65638" size="420,297,mm" position="0,0,mm" positionOnPage="0,0,mm" background="true" frame="false" id="" uuid="{page}">
+      <symbol type="fill" name="" alpha="1" clip_to_extent="1" force_rhr="0"><layer class="SimpleFill" enabled="1" locked="0" pass="0"><Option type="Map"><Option type="QString" name="color" value="31,24,18,255"/><Option type="QString" name="outline_style" value="no"/><Option type="QString" name="style" value="solid"/></Option></layer></symbol>
+    </LayoutItem>
+  </PageCollection>
+  <LayoutItem type="65639" size="300,257,mm" position="20,20,mm" positionOnPage="20,20,mm" frame="true" background="true" id="map" uuid="{map}" mapRotation="0" followPreset="false">
+    <FrameColor red="201" green="154" blue="91" alpha="255"/><BackgroundColor red="43" green="33" blue="24" alpha="255"/>
+    <Extent xmin="120950" ymin="484750" xmax="121950" ymax="485750"/>
+    <crs><spatialrefsys><authid>EPSG:28992</authid></spatialrefsys></crs>
+  </LayoutItem>
+  <LayoutItem type="65641" size="70,16,mm" position="330,20,mm" positionOnPage="330,20,mm" frame="false" background="false" id="title" uuid="{title}" labelText="Street inventory" halign="1" valign="32" marginX="0" marginY="0">
+    <LabelFont description="Manrope,22,-1,5,75,0,0,0,0,0,Bold" style="Bold"/><FontColor red="243" green="230" blue="208" alpha="255"/>
+  </LayoutItem>
+  <LayoutItem type="65641" size="70,10,mm" position="330,36,mm" positionOnPage="330,36,mm" frame="false" background="false" id="subtitle" uuid="{sub}" labelText="Amsterdam De Pijp · 1 km² · from aerial LiDAR" halign="1" valign="32" marginX="0" marginY="0">
+    <LabelFont description="IBM Plex Sans,9,-1,5,50,0,0,0,0,0" style=""/><FontColor red="217" green="195" blue="163" alpha="255"/>
+  </LayoutItem>
+  <LayoutItem type="65642" size="70,120,mm" position="330,52,mm" positionOnPage="330,52,mm" frame="false" background="false" id="legend" uuid="{legend}" title="" resizeToContents="1" columnCount="1" boxSpace="2" symbolWidth="7" symbolHeight="4" lineSpacing="1.2">
+    <styles>
+      <style name="title"><font description="Manrope,12,-1,5,75,0,0,0,0,0,Bold" style="Bold"/></style>
+      <style name="subgroup"><font description="IBM Plex Sans,9,-1,5,50,0,0,0,0,0" style=""/></style>
+      <style name="symbol"><font description="IBM Plex Sans,8,-1,5,50,0,0,0,0,0" style=""/></style>
+    </styles>
+    <fontColor red="243" green="230" blue="208" alpha="255"/>
+    <ComposerMap uuid="{map}"/>
+  </LayoutItem>
+  <LayoutItem type="65643" size="70,10,mm" position="330,250,mm" positionOnPage="330,250,mm" frame="false" background="false" id="scalebar" uuid="{scale}" segments="2" segmentsLeft="0" units="mm" style="Single Box" height="2" labelBarSpace="1.5" unitLabel="m" unitType="standard" unitsPerSegment="100" segmentMillimeters="30">
+    <textFormat><font description="IBM Plex Sans,8,-1,5,50,0,0,0,0,0" style=""/><text-color red="243" green="230" blue="208" alpha="255"/></textFormat>
+    <fillSymbol1><symbol type="fill" name="" alpha="1"><layer class="SimpleFill" enabled="1"><Option type="Map"><Option type="QString" name="color" value="232,146,42,255"/><Option type="QString" name="outline_color" value="243,230,208,255"/></Option></layer></symbol></fillSymbol1>
+    <fillSymbol2><symbol type="fill" name="" alpha="1"><layer class="SimpleFill" enabled="1"><Option type="Map"><Option type="QString" name="color" value="43,33,24,255"/><Option type="QString" name="outline_color" value="243,230,208,255"/></Option></layer></symbol></fillSymbol2>
+    <ComposerMap uuid="{map}"/>
+  </LayoutItem>
+  <LayoutItem type="65641" size="70,10,mm" position="330,265,mm" positionOnPage="330,265,mm" frame="false" background="false" id="credit" uuid="{credit}" labelText="Terra Layer · data: AHN5 (CC0), PDOK, BGT, OpenStreetMap" halign="1" valign="32" marginX="0" marginY="0">
+    <LabelFont description="IBM Plex Sans,7,-1,5,50,0,0,0,0,0" style=""/><FontColor red="168" green="140" blue="106" alpha="255"/>
+  </LayoutItem>
+</Layout>
