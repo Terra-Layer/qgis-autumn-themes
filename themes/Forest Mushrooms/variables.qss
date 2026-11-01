@@ -1,0 +1,15 @@
+@background: #1f3a2c
+@itembackground: #162b20
+@itemalternativebackground: #5f8a66
+@itemdarkbackground: #2a4a37
+@darkgradient: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #335a44, stop: 0.1 #30563f, stop: 0.5 #2d513b, stop: 0.9 #2a4c37, stop: 1 #274733)
+@darkalternativegradient: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1,stop: 0 #335a44,stop: 1 #274733);
+@gradient: QLinearGradient(x1:0, y1:0, x2:1, y2:1, stop:0 #9ccf96, stop:1 #6fa36e)
+@textlight: #eef5ea
+@text: #cfe0c8
+@toggleoff: #335a44
+@toggleon: #d9892e
+@selection: #4a8a5a
+@hover: #35604a
+@focusdark: rgba(217,137,46,110)
+@focus: #d9892e
