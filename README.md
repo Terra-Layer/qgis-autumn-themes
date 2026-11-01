@@ -20,7 +20,7 @@ The pattern sits only on dock panels and item views (Browser, Layers, lists) and
 | ![Autumn Cups](docs/img/Autumn_Cups.jpg) | ![Forest Dogs](docs/img/Forest_Dogs.jpg) |
 | ![Autumn Cats](docs/img/Autumn_Cats.jpg) | ![Forest Contours](docs/img/Forest_Contours.jpg) |
 
-Screenshots of all thirty themes are in [`previews/`](previews/) and in the [PDF](https://github.com/DarinaShandyba/qgis-autumn-themes/releases).
+Screenshots of all thirty themes are in [`previews/`](previews/) and in the [PDF](https://github.com/Terra-Layer/qgis-autumn-themes/releases).
 
 ## Install
 
