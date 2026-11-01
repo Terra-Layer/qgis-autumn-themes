@@ -22,11 +22,11 @@
       </layer>
     </symbol>
     <symbol type="line" name="Autumn / road amber" alpha="1" clip_to_extent="1" force_rhr="0">
-      <layer class="SimpleLine" enabled="1" locked="0" pass="1">
-        <Option type="Map"><Option type="QString" name="line_color" value="232,146,42,255"/><Option type="QString" name="line_width" value="0.9"/><Option type="QString" name="line_width_unit" value="MM"/><Option type="QString" name="line_style" value="solid"/><Option type="QString" name="capstyle" value="round"/><Option type="QString" name="joinstyle" value="round"/></Option>
-      </layer>
       <layer class="SimpleLine" enabled="1" locked="0" pass="0">
         <Option type="Map"><Option type="QString" name="line_color" value="61,47,35,255"/><Option type="QString" name="line_width" value="1.5"/><Option type="QString" name="line_width_unit" value="MM"/><Option type="QString" name="line_style" value="solid"/><Option type="QString" name="capstyle" value="round"/><Option type="QString" name="joinstyle" value="round"/></Option>
+      </layer>
+      <layer class="SimpleLine" enabled="1" locked="0" pass="1">
+        <Option type="Map"><Option type="QString" name="line_color" value="232,146,42,255"/><Option type="QString" name="line_width" value="0.9"/><Option type="QString" name="line_width_unit" value="MM"/><Option type="QString" name="line_style" value="solid"/><Option type="QString" name="capstyle" value="round"/><Option type="QString" name="joinstyle" value="round"/></Option>
       </layer>
     </symbol>
     <symbol type="line" name="Autumn / path dashed" alpha="1" clip_to_extent="1" force_rhr="0">
